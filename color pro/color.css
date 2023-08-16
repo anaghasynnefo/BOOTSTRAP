@@ -1,0 +1,36 @@
+.a{
+    background-color: greenyellow;
+    border: 2px solid black;
+    padding-bottom: 150px;
+}
+.b{
+    background-color: skyblue;
+    border: 2px solid black;
+    padding-bottom: 150px;
+
+}
+.c{
+    background-color: brown;
+    border: 2px solid black;
+    padding-bottom: 190px;
+}
+.d{
+    background-color: rgb(88, 24, 88);
+    border: 2px solid black;
+    padding-bottom: 190px;
+}
+.e{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    
+}
+.f{
+    background-color: yellow;
+    border: 2px solid black;
+    padding-bottom: 100px;
+}
+.g{
+    background-color: #e6adee;
+    border: 2px solid black;
+    padding-bottom: 250px;
+}

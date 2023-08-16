@@ -1,0 +1,30 @@
+.a{
+    background-color: hsla(180, 42%, 48%, 0.603);
+    text-align: center;
+}
+.b{
+    background-color:hsla(180, 42%, 48%, 0.603) ;
+    padding-top:105px ;
+    padding-bottom: 105px;
+    text-align: center;
+    
+}
+.c{
+    background-color:hsla(180, 42%, 48%, 0.603);
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.d{
+    background-color:hsla(180, 42%, 48%, 0.603);
+    padding-top: 75px ;
+    padding-bottom: 75px;
+    text-align: center;
+}
+.e{
+    background-color: hsla(180, 42%, 48%, 0.603);
+    padding-top: 45px;
+    padding-bottom: 45px;
+    text-align: center;
+}
+
